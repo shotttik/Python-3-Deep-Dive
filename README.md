@@ -1,2 +1,2 @@
 # Python-3-Deep-Dive
-Used sublime-text.
+Used `sublime text editor`.
